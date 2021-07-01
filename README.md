@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Juegoahorcado
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
@@ -26,7 +25,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
 # ahorcadoapp
 Ejemplo de página hecha con Angular. El juego consiste en adivinar la palabra para ello tiene 9 intentos.
->>>>>>> 2694a0464f14c7b824f03867faa22015fb3a832f
